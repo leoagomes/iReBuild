@@ -6,7 +6,7 @@ Here's all the documentation I have to give you. So sorry.
 iReBuild and iLib are all released under the GNU General Public License (GPL). Check LICENSE.txt for more.
 
 
-* Quick Note: The iLib.dll used in this project was built with Mono.Data.SQLite. If you want to use it on Windows, you'll have to rebuild the lib. Or you could install Mono Runtime Enviroment. 
+* Quick Note: The iLib.dll used in this project was built with Mono.Data.SQLite. If you want to use it on Windows, you'll have to rebuild the lib. Or you could install Mono For Windows. 
 (http://www.go-mono.com/mono-downloads/download.html)
 * Another Quick Note: I know this Lib works on iOS 6. Not sure about other versions.
 
